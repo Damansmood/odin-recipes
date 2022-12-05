@@ -1,0 +1,21 @@
+.title {
+    color: orange;
+    background-color: beige;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 36px;
+    text-align: center;
+}
+
+.link {
+    color: blue;
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 250px;
+}

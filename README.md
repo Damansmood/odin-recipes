@@ -4,3 +4,5 @@ This is my brief introduction before beginning the project. As far as I know, I 
 
 Reflection after finishing HTML section:
     That was actually pretty easy. Almost felt like review from middle school from whatever our inro to computer class was. That was fun and it was satisfying seeing it come together, and I didn't use my notes much at all. Straightforward. Only thing I was still wrapping my head around was pushing to GitHub correctly and remembering to add and commit before pushing. Onto CSS now - I'm excited to get to the good stuff (aka interactivity with JavaScript)!
+
+Finished CSS updates to the page. Made some basic updates, just toying around with some features learned in the course. 

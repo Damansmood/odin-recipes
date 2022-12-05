@@ -19,3 +19,8 @@ img {
     height: auto;
     width: 250px;
 }
+
+.intro.text {
+    text-align: center;
+    
+}
